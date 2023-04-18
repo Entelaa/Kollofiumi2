@@ -1,0 +1,11 @@
+git u krijua si vegël e terminalit (CLI). 
+• Për ta përdorur atë, ne ekzekutojmë komanda të ndryshme Git në një Unix shell.
+• CLI nuk është përvoja më miqësore për përdoruesit, por është në thelb të Git!
+• Gjatë viteve të fundit, kompanitë kanë krijuar GUI për Git. 
+• Këto i lejojnë njerëzit të përdorin Git pa qenë nevoja të jenë ekspert të CLI.
+• GUI-të e njohura Git përfshijnë:
+• Github Desktop
+• SourceTree
+• Tower
+• GitKraken
+• UnGi
